@@ -17,7 +17,7 @@
 | 4 | `docs/process.md` 작성 | main | 완료 | - |
 | 5 | 공통 기반 코드 구현 (Entity/Repository, 예외 처리, Parser, Storage) | main | 완료 | - |
 | 6 | API 1 (파일 업로드) 구현 | feature/coupon-file-upload-api | 완료 | https://github.com/minjibyeongho/mentoring-coupon/pull/1 |
-| 7 | API 2 (파일 다운로드) 구현 | 미정 | 예정 | - |
+| 7 | API 2 (파일 다운로드) 구현 | feature/coupon-file-download-api | 진행중 | - |
 
 ## 컬럼 작성 규칙
 - **상태**: `예정` / `진행중` / `완료` 중 하나로 기입
